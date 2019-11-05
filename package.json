@@ -16,5 +16,10 @@
   "bugs": {
     "url": "https://github.com/skyline6965/Google-book-search/issues"
   },
-  "homepage": "https://github.com/skyline6965/Google-book-search#readme"
+  "homepage": "https://github.com/skyline6965/Google-book-search#readme",
+  "dependencies": {
+    "axios": "^0.19.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.7.7"
+  }
 }
